@@ -6,7 +6,7 @@ A full-stack web application that ingests messy, real-world documents (scanned P
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -38,7 +38,7 @@ A full-stack web application that ingests messy, real-world documents (scanned P
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## ✨ Features
+##  Features
 
 ### 1. Document Parser
 - Handles: scanned PDFs, handwritten pages, PDFs with tables, image-heavy reports, plain text
@@ -88,7 +88,7 @@ A full-stack web application that ingests messy, real-world documents (scanned P
 
 ---
 
-## 🛡️ Security Decisions
+##  Security Decisions
 
 ### Implemented
 
@@ -134,7 +134,7 @@ A full-stack web application that ingests messy, real-world documents (scanned P
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -205,7 +205,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) — the chatbot is re
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── backend/
@@ -246,7 +246,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) — the chatbot is re
 └── .gitignore
 ```
 
-## 📦 Sample Documents Included
+##  Sample Documents Included
 
 | # | Document | Type | Tests |
 |---|----------|------|-------|
@@ -258,7 +258,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) — the chatbot is re
 | 6 | Invoice 2024-0847 | PDF with tables | Invoice parsing, financial data |
 | 7 | Smart City Proposal | Multi-page PDF | Mixed content, budget tables |
 
-## 🔌 API Reference
+##  API Reference
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -273,7 +273,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) — the chatbot is re
 | `GET` | `/api/pages/{doc_id}/{page_num}/text` | Get page text |
 | `GET` | `/api/health` | Health check |
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -288,6 +288,6 @@ Navigate to [http://localhost:3000](http://localhost:3000) — the chatbot is re
 | Encryption | cryptography (Fernet/AES) |
 | Voice Input | Web Speech API (browser-native) |
 
-## 📄 License
+##  License
 
 MIT License — see [LICENSE](LICENSE) for details.
