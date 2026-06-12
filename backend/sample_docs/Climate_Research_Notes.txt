@@ -1,0 +1,108 @@
+CLIMATE CHANGE IMPACT ASSESSMENT — RESEARCH NOTES
+==================================================
+Compiled by: Dr. Elena Vasquez, Environmental Science Dept.
+Date: November 2024
+Project: Global Temperature Anomaly Analysis (Grant #NSF-2024-0847)
+
+1. KEY FINDINGS FROM 2024 DATA
+------------------------------
+Global mean surface temperature anomaly reached +1.45°C above pre-industrial baseline
+(1850-1900 average). This represents a 0.12°C increase from 2023, the largest single-year
+jump recorded since systematic measurements began in 1880.
+
+Regional breakdown:
+- Arctic: +3.8°C anomaly (amplification factor ~2.6x global mean)
+- Northern Hemisphere Land: +2.1°C
+- Southern Hemisphere Land: +1.2°C
+- Global Ocean Surface: +0.92°C
+- Antarctic: +1.1°C (notable increase from 2023's +0.7°C)
+
+Sea ice extent:
+- Arctic September minimum: 3.74 million km² (2nd lowest on record)
+- Antarctic February minimum: 1.98 million km² (new record low)
+- Combined global sea ice: Deficit of 2.3 million km² from 1981-2010 mean
+
+2. OCEAN HEAT CONTENT (OHC) ANALYSIS
+-------------------------------------
+Upper ocean (0-700m) heat content reached new record: 15.2 × 10²² joules above
+the 1991-2020 average. This is equivalent to approximately 25 billion Hiroshima bombs
+of energy absorbed since 1955.
+
+Deep ocean (700-2000m) warming detected at accelerating rate:
+- 2000-2010: +0.003°C/decade
+- 2010-2020: +0.008°C/decade
+- 2020-2024: +0.012°C/decade (estimated)
+
+Marine heatwave days increased 54% compared to 1980s baseline.
+Coral bleaching events affected 73% of global reef systems in 2024.
+
+3. ATMOSPHERIC CO2 CONCENTRATIONS
+----------------------------------
+Mauna Loa Observatory annual mean: 427.3 ppm (May 2024 peak: 429.1 ppm)
+Annual growth rate: 2.8 ppm/year (accelerating from 2.4 ppm/year in 2020)
+
+Isotopic analysis confirms >95% of increase is anthropogenic.
+Methane (CH4): 1,928 ppb (wetland and fossil fuel sources both increasing)
+N2O: 337.8 ppb (agricultural and industrial sources)
+
+4. EXTREME WEATHER EVENTS LOG (2024)
+--------------------------------------
+| Month  | Event                        | Location        | Impact              |
+|--------|------------------------------|-----------------|---------------------|
+| Jan    | Heat dome                    | S. America      | 48.2°C record       |
+| Feb    | Atmospheric river sequence   | California      | $4.2B damage        |
+| Mar    | Cyclone Ava (Cat 5)          | Madagascar      | 450 fatalities      |
+| May    | Record flooding              | Dubai, UAE      | 2-year rain in 24hr |
+| Jun    | Heat wave "Cerberus II"      | S. Europe       | 2,100+ deaths       |
+| Jul    | Wildfires (record acreage)   | Canada          | 18M hectares burned |
+| Aug    | Compound drought + heat      | Horn of Africa  | 23M food insecure   |
+| Sep    | Hurricane Maria (Cat 4)      | Caribbean       | $38B damage est.    |
+| Oct    | Flash flooding               | Libya/Morocco   | 5,200 displaced     |
+| Nov    | Extreme rainfall + landslide | Philippines     | 340 fatalities      |
+
+5. GLACIER MASS BALANCE
+--------------------------
+World Glacier Monitoring Service reports:
+- Global glacier mass loss 2024: -1,260 Gt (gigatonnes)
+- Cumulative loss since 2000: -11,400 Gt
+- European Alps: Lost 6.2% of remaining ice volume in 2024
+- Himalayan glaciers: Accelerated retreat averaging 12.5m/year
+
+Sea level contribution from glaciers: ~1.1 mm/year
+Total sea level rise rate: 4.77 mm/year (satellite altimetry)
+
+6. CARBON BUDGET ASSESSMENT
+-----------------------------
+Remaining carbon budget for 1.5°C (50% probability): ~120 Gt CO2
+At current emission rates (~40 Gt CO2/year), budget exhausted by ~2027
+
+Emission sources (2024 estimates):
+- Fossil fuels: 37.4 Gt CO2
+- Land use change: 3.8 Gt CO2
+- Cement production: 1.7 Gt CO2
+- Total: 42.9 Gt CO2
+
+7. NOTES FOR UPCOMING PAPER
+-----------------------------
+- Need to update Figure 3 with 2024 OHC data
+- Cross-reference with IPCC AR6 projections
+- Include uncertainty bounds from ensemble models
+- Compare with Copernicus ERA5 reanalysis
+- TODO: Run CESM2 simulation with updated forcing data
+- Manuscript draft due: January 15, 2025
+- Target journal: Nature Climate Change
+
+8. POLICY IMPLICATIONS
+-----------------------
+Current NDC pledges put us on track for 2.5-2.8°C by 2100.
+Gap between pledges and 1.5°C pathway: ~20 Gt CO2/year by 2030.
+Key policy recommendations:
+a) Accelerate phase-out of coal power (target: 2035 for OECD nations)
+b) Triple renewable energy capacity by 2030 (COP28 pledge)
+c) Implement carbon border adjustment mechanisms globally
+d) Increase climate adaptation funding to $300B/year (current: $21B/year)
+e) Strengthen methane reduction targets (Global Methane Pledge expansion)
+
+---
+Classification: Internal — Research Use Only
+Contact: evasquez@university.edu | Lab: ENV-204B
